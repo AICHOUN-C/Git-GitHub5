@@ -1,3 +1,4 @@
+LOCAL
 # Git-GitHub5
 
     Crée un nouveau dépôt sur GitHub, en cochant "Initialize this repository with a README".
